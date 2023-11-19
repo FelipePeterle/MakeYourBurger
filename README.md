@@ -1,6 +1,6 @@
 # make_your_burguer (Loja virtual de hamburgueria)
 
-### A ideia do projeto é servir como gerenciamento para uma loja virtual de hamburguers, aonde pode ser feito desde o cadastro do pedido, até a remoção ou atualização do status do pedido.
+### A ideia do projeto é servir como gerenciamento para uma loja virtual de uma hamburgueria, aonde pode ser feito desde o cadastro do pedido, até a remoção ou atualização do status do pedido.
 
 ## Stack utilizada:
 
