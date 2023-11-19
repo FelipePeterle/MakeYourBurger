@@ -25,8 +25,8 @@
 #### Os pré-requisitos necessários para executar o projeto são:
 
 <ul>
-  <a href="https://nodejs.org/en"><li>Node.js</li></a>
-  <a href="https://git-scm.com/"><li>Git</li></a>
+  <a href="https://nodejs.org/en" target="_blank"><li>Node.js</li></a>
+  <a href="https://git-scm.com/"  target="_blank"><li>Git</li></a>
 </ul>
 
 
